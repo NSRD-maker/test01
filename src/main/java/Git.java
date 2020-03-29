@@ -10,5 +10,7 @@ public class Git {
     version 2.2
     version 2.31
     version 2.4
+    version 2.5
+    version 2.6
 
 }
